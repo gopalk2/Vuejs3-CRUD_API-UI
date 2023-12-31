@@ -1,0 +1,10 @@
+
+Technology:- 
+-------------
+FrontEnd-> Vuejs3 
+ Design:->  Tailwind CSS
+ 
+Run:-
+---------
+UI-Run= npm run dev /serve
+
